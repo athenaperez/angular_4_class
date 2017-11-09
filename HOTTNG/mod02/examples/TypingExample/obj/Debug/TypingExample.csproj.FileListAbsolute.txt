@@ -1,0 +1,6 @@
+D:\Labs\mod02\examples\TypingExample\obj\Debug\TypingExample.csprojResolveAssemblyReference.cache
+D:\Labs\mod02\examples\TypingExample\bin\TypingExample.dll.config
+D:\Labs\mod02\examples\TypingExample\bin\TypingExample.dll
+D:\Labs\mod02\examples\TypingExample\bin\TypingExample.pdb
+D:\Labs\mod02\examples\TypingExample\obj\Debug\TypingExample.dll
+D:\Labs\mod02\examples\TypingExample\obj\Debug\TypingExample.pdb

@@ -1,0 +1,6 @@
+c:\hottNG2\mod02\labs\Typings\Typings\bin\Typings.dll.config
+c:\hottNG2\mod02\labs\Typings\Typings\bin\Typings.dll
+c:\hottNG2\mod02\labs\Typings\Typings\bin\Typings.pdb
+c:\hottNG2\mod02\labs\Typings\Typings\obj\Debug\Typings.csprojResolveAssemblyReference.cache
+c:\hottNG2\mod02\labs\Typings\Typings\obj\Debug\Typings.dll
+c:\hottNG2\mod02\labs\Typings\Typings\obj\Debug\Typings.pdb

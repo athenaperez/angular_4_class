@@ -1,0 +1,1 @@
+node_modules.zip contains a reference copy of node_modules that should work with all of the angular-specific labs.  Simply unzip and copy into the root of any project.  Root, in this case, means at the same level (a sibling of) the app directory (not inside the app directory).
